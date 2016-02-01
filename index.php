@@ -14,23 +14,16 @@
    <?php
         
          include("header.html"); // Header
-  
-<<<<<<< HEAD
-   ?>
+ 
   
   
   
   
   
-  
-</body>
-=======
 include("soundcloud.html"); // Header
-  
-  
+  include("  vignettes.html");
+
   
      ?>
   
   
-</body>
->>>>>>> 799881b11cb4e0dc06344d1d9c05adbec80d1ce6
