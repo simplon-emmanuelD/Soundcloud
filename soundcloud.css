@@ -1,0 +1,43 @@
+footer{
+  text-align: center;
+  margin-bottom: 70px;
+  	font-family: Lucida Grande,Lucida Sans Unicode,Lucida Sans,Geneva,Verdana,sans-serif;
+}
+
+p{
+  font-size: 10px;
+}
+
+#bouton {
+  background-color: white;
+}
+
+h1{
+  font-size: 24px;
+}
+
+h2{
+  font-size: 18px;
+}
+
+h3{
+  font-size: 17px;
+}
+
+button.button {
+	padding:15px 0 15px 0;
+	font:bold 10px Arial;
+	background:#ED7F10;
+	color:white;
+	border-radius:0px;
+	width:100px;
+	border:0px solid #ccc;
+	box-shadow:2px 2px 4px #999;
+  font-family: Lucida Grande,Lucida Sans Unicode,Lucida Sans,Geneva,Verdana,sans-serif;
+
+}
+
+button.bouton2{
+  background-color: white;
+  color: black;
+}
